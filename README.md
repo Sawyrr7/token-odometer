@@ -24,7 +24,7 @@ Messages are de-duplicated by ID, so resumed sessions and repeated log lines cou
 Requires macOS 14+ and Swift 6 (Xcode or the command line tools).
 
 ```bash
-./scripts/build-app.sh
+bash scripts/build-app.sh
 open build/TokenOdometer.app
 ```
 
